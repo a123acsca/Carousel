@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .ancho {
+    max-width: 1200px;
+    margin: auto;
+    /* border: 1px red solid ; */
+  }
+  body{
+    font-family: helvetica;
+  }
+  .art-hijo1{
+    max-width: 300px;
+  }
+  .art-hijo1 h1{
+    font-size: 45px;
+    margin-bottom:15px;
+  }
+  .art-hijo1 h2{
+    font-size: 23px;
+    margin-bottom: 15px;
+    color: blue;
+  }
+  .art-hijo1 p{
+    font-size: 20px;
+    line-height: 25px;
+    text-align: justify;
+  }
+
+
